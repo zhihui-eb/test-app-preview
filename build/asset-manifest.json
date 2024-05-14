@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4b850d63.css",
+    "main.js": "/static/js/main.a3d699c8.js",
+    "static/js/453.b9b4a01c.chunk.js": "/static/js/453.b9b4a01c.chunk.js",
+    "static/media/south-bank-london.webp": "/static/media/south-bank-london.28e57f88b4d165a48805.webp",
+    "static/media/features-img.webp": "/static/media/features-img.4c3a417c93ac1d70626a.webp",
+    "static/media/footer.png": "/static/media/footer.4c257382014db9301130.png",
+    "static/media/Instagram.svg": "/static/media/Instagram.e5235a36415bdfad8f48e0d068645868.svg",
+    "static/media/Twitter.svg": "/static/media/Twitter.9f6d91c58e45fc9306b0b288ffc0c565.svg",
+    "static/media/cancel.svg": "/static/media/cancel.fc94e9e2e230d9b3976edc095c135ad0.svg",
+    "index.html": "/index.html",
+    "static/media/menu.svg": "/static/media/menu.6ca026f8a49988691347ade3d2902a06.svg",
+    "main.4b850d63.css.map": "/static/css/main.4b850d63.css.map",
+    "main.a3d699c8.js.map": "/static/js/main.a3d699c8.js.map",
+    "453.b9b4a01c.chunk.js.map": "/static/js/453.b9b4a01c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b850d63.css",
+    "static/js/main.a3d699c8.js"
+  ]
+}
